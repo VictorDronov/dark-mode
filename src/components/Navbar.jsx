@@ -1,5 +1,5 @@
 import React from 'react';
-
+// import ".././styles.scss";
 
 const Navbar = (props) => {
   const  {darkMode,toggleMode} = props
